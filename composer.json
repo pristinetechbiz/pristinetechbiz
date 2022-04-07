@@ -1,0 +1,11 @@
+{
+    "name": "somtoanazodo/dashboard",
+    "require": {
+        "catfan/medoo": "^2.1",
+        "cloudinary/cloudinary_php": "^2"
+    },
+    "authors": [{
+        "name": "kodunmi",
+        "email": "kodunmilekan@gmail.com"
+    }]
+}
